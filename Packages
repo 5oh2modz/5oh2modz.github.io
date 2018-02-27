@@ -26,20 +26,6 @@ Description: Don't Pay For InApp Purchases Not Working on All Apps
 Author: 5oh2modz <jdmodz@icloud.com>
 Name: iApp Cracker
 
-Package: com.tokems.Glyphs
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: 5oh2modz <jdmodz@icloud.com>
-Filename: /Glyphs.deb
-Size: 368714
-MD5sum: eb572479e4d3be127d1519b5b262eee9
-SHA1: 109611e828cccbeb35f81d9bd15290a42789503c
-SHA256: 26c8fefb2b52c533c60a14939ce327ea4120b2c614a034289159bf84e7e343fa
-Section: Themes
-Description: Glyphs theme for Anemone
-Author: 5oh2modz <jdmodz@icloud.com>
-Name: Glyphs
-
 Package: com.5oh2modz.ScoSnap
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -54,3 +40,16 @@ Description: Modded Snapchat
 Author: 5oh2modz <jdmodz@icloud.com>
 Name: ScoThMan Snapchat
 
+Package: com.5oh2modz.Cylinder
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: 5oh2modz <jdmodz@icloud.com>
+Filename: /Cylinder.deb
+Size: 255488
+MD5sum: 1c0eebe91f6e03faea96218dadf8f4cc
+SHA1: 8ee421d677df4ebf70b1f39f58e3ff9d3b831e1a
+SHA256: 4294d05662d81b24bae3625c4962ec6cfd85678f4066c4b580b151b555c8615f
+Section: Tweaks
+Description: Cylinder Tweak
+Author: 5oh2modz <jdmodz@icloud.com>
+Name: Cylinder
