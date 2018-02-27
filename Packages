@@ -2,7 +2,7 @@ Package: com.5oh2modz.betterfive
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: 5oh2modz <jdmodz@icloud.com>
-Filename: \5columnHomeScreen.deb
+Filename: /5columnHomeScreen.deb
 Size: 8522
 MD5sum: 75742011f213c1ac6febba5dadafffaa
 SHA1: ee246aa5b839ed47addc7a25d7c9bfeaaaba0b7e
@@ -25,3 +25,18 @@ Section: Tweaks
 Description: Don't Pay For InApp Purchases Not Working on All Apps
 Author: 5oh2modz <jdmodz@icloud.com>
 Name: iApp Cracker
+
+Package: com.tokems.Glyphs
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: 5oh2modz <jdmodz@icloud.com>
+Depends: Anemone
+Filename: /Glyphs.deb
+Size: 368714
+MD5sum: eb572479e4d3be127d1519b5b262eee9
+SHA1: 109611e828cccbeb35f81d9bd15290a42789503c
+SHA256: 26c8fefb2b52c533c60a14939ce327ea4120b2c614a034289159bf84e7e343fa
+Section: Themes
+Description: Glyphs theme for Anemone
+Author: 5oh2modz <jdmodz@icloud.com>
+Name: Glyphs
