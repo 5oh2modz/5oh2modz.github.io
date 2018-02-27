@@ -2,12 +2,26 @@ Package: com.5oh2modz.betterfive
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: 5oh2modz <jdmodz@icloud.com>
-Filename: /5columnHomeScreen.deb
+Filename: \5columnHomeScreen.deb
 Size: 8522
 MD5sum: 75742011f213c1ac6febba5dadafffaa
 SHA1: ee246aa5b839ed47addc7a25d7c9bfeaaaba0b7e
-SHA256: 8558406cd2398928c4bbae4ac19e080dfdc22c89b7C27302ef46669df3cf49b5
+SHA256: 8558406cd2398928c4bbae4ac19e080dfdc22c89b7c27302ef46669df3cf49b5
 Section: Tweaks
 Description: Add a fifth column to your home screen! 
 Author: Redpandadev <dontknow@gmail.com>
 Name: Five Column Home Screen
+
+Package: com.5oh2modz.iApC
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: 5oh2modz <jdmodz@icloud.com>
+Filename: /iApCracker.deb
+Size: 2894
+MD5sum: c141e59c8de5e743184946c7bb8c51a8
+SHA1: 97bf95d6de75e0a3ef41025527b5337e768660df
+SHA256: 608ff7889fc9239559a2de8cf5ea93e7baadb9a58b85d8257e617fee2d7251ac
+Section: Tweaks
+Description: Don't Pay For InApp Purchases Not Working on All Apps
+Author: 5oh2modz <jdmodz@icloud.com>
+Name: iApp Cracker
