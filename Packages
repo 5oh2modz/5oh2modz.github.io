@@ -30,7 +30,7 @@ Package: com.tokems.Glyphs
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: 5oh2modz <jdmodz@icloud.com>
-Depends: Anemone.deb
+Depends: /Anemone.deb
 Filename: /Glyphs.deb
 Size: 368714
 MD5sum: eb572479e4d3be127d1519b5b262eee9
