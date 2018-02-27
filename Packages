@@ -1,13 +1,13 @@
 Package: com.5oh2modz.betterfive
 Version: 0.0.1
 Architecture: iphoneos-arm
-Maintainer: 5oh2modz
+Maintainer: 5oh2modz <jdmodz@icloud.com>
 Filename: /5columnHomeScreen.deb
 Size: 8522
-MD5sum: 75742011F213C1AC6FEBBA5DADAFFFAA
-SHA1: EE246AA5B839ED47ADDC7A25D7C9BFEAAABA0B7E
-SHA256: 8558406CD2398928C4BBAE4AC19E080DFDC22C89B7C27302EF46669DF3CF49B5
+MD5sum: 75742011f213c1ac6febba5dadafffaa
+SHA1: ee246aa5b839ed47addc7a25d7c9bfeaaaba0b7e
+SHA256: 8558406cd2398928c4bbae4ac19e080dfdc22c89b7C27302ef46669df3cf49b5
 Section: Tweaks
 Description: Add a fifth column to your home screen! 
-Author: Redpandadev
+Author: Redpandadev <dontknow@gmail.com>
 Name: Five Column Home Screen
