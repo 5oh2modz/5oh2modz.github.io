@@ -53,3 +53,17 @@ Section: Tweaks
 Description: Cylinder Tweak
 Author: 5oh2modz <jdmodz@icloud.com>
 Name: Cylinder
+
+Package: com.5oh2modz.Lotus
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: 5oh2modz <jdmodz@icloud.com>
+Filename: /Lotus.deb
+Size: 6861500
+MD5sum: 446f37a1bc11e8293b5e85a2d574df7e
+SHA1: 4ea8354aa42f97723cca4314e4aa73362f555e7b
+SHA256: a399e164a77691b05e478bea94080b1d48d63bf4695d47e3dd415310401788c5
+Section: Themes
+Description: Lotus Theme for Anemone
+Author: 5oh2modz <jdmodz@icloud.com>
+Name: Lotus
